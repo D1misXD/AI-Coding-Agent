@@ -1,5 +1,6 @@
 import os
 import subprocess
+import sys
 
 working_directory = os.path.abspath(".")
 
@@ -13,7 +14,7 @@ def run_python_file(file_path: str, args = []):
         return f'Error: "{file_path}" is not a Python file.'
     
     try:
-        final_args = ["D:\\AI Agent LLM Project\\venv\\Scripts\\python.exe", file_path]
+        final_args = [sys.executable, file_path]
         final_args.extend(args)
         output = subprocess.run(
             final_args, 

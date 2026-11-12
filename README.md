@@ -182,7 +182,3 @@ Tip: for debugging, ask the agent to **read** the code, not just run it. A progr
 - [python-dotenv](https://pypi.org/project/python-dotenv/) – loading API keys from `.env`
 - [Pydantic](https://docs.pydantic.dev/) – tool argument schemas
 
-## Author
-
-**Dimitrios Christoforos N. Fragkoulidis**
-Department of Informatics, Democritus University of Thrace

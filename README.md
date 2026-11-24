@@ -76,7 +76,7 @@ AI-Coding-Agent/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/AI-Coding-Agent.git
+git clone https://github.com/D1misXD/AI-Coding-Agent.git
 cd AI-Coding-Agent
 ```
 

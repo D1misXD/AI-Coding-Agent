@@ -109,8 +109,6 @@ GEMINI_API_KEY=your_gemini_api_key_here
 TAVILY_API_KEY=your_tavily_api_key_here
 ```
 
-> ⚠️ Never commit the `.env` file. Add `.env` to your `.gitignore` so your keys stay private.
-
 ## Usage
 
 Run the agent **from the project folder**:
